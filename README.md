@@ -8,7 +8,7 @@ I started this project a before making a git repository, so there's some missing
 
 ---
 
-# Current Status
+# Current Status - Work In Progress
 ### I haven't ordered a board with these latest changes yet - Soon!
 ### Reminder - Generate new gerbers before ordering!
 
