@@ -10,6 +10,7 @@ I started this project a before making a git repository, so there's some missing
 
 # Current Status
 ### I haven't ordered a board with these latest changes yet - Soon!
+### Reminder - Generate new gerbers before ordering!
 
 * I've routed the 1.1V rail that was missing from the inital prototype
 * I fixed the 0805 LEDs that I had sitting on 0603 footprints
