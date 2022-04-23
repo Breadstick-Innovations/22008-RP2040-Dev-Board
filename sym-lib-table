@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "RP2040")(type "Legacy")(uri "${KIPRJMOD}/Snap EDA/RP2040/RP2040.lib")(options "")(descr ""))
+  (lib (name "TYPE-C-31-M-12")(type "Legacy")(uri "${KIPRJMOD}/Snap EDA/TYPE-C-31-M-12/TYPE-C-31-M-12.lib")(options "")(descr ""))
+)
