@@ -8,7 +8,7 @@ I started this project a before making a git repository, so there's some missing
 
 ---
 
-# Current Status - Ordering Rev 2 for testing!
+# Current Status - Rev 2 Boards On Order!
 ![](./Renders/Rev2/RayTrace1.png)
 ![](./Renders/Rev2/RayTrace2.png)
 ![](./Renders/Rev2/RayTrace3.png)
