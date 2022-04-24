@@ -8,13 +8,10 @@ I started this project a before making a git repository, so there's some missing
 
 ---
 
-# Current Status - Work In Progress
-### I haven't ordered a board with these latest changes yet - Soon!
-### Reminder - Generate new gerbers before ordering!
-
-* I've routed the 1.1V rail that was missing from the inital prototype
-* I fixed the 0805 LEDs that I had sitting on 0603 footprints
-* Pins 43 and 44 are now routed to the closest decoupling capacitor
-* U205's silkscreen has been hidden
-* ADC Silkscreen has been improved
-* Still need to replace the current crystal (extended part) with C9002 (basic part) 
+# Current Status - Ordering Rev 2 for testing!
+![](./Renders/Rev2/RayTrace1.png)
+![](./Renders/Rev2/RayTrace2.png)
+![](./Renders/Rev2/RayTrace3.png)
+![](./Renders/Rev2/Top.png)
+![](./Renders/Rev2/TopUnpopulated.png)
+![](./Renders/Rev2/BottomUnpopulated.png)
