@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/RP2040")(options "")(descr ""))
   (lib (name "TYPE-C-31-M-12")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/TYPE-C-31-M-12")(options "")(descr ""))
+  (lib (name "X322516MLB4SI")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/X322516MLB4SI")(options "")(descr ""))
 )

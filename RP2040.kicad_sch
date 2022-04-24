@@ -6,9 +6,13 @@
 
   (title_block
     (title "RP2040 Template")
-    (date "2022-03-28")
-    (rev "1")
+    (date "2022-04-24")
+    (rev "2")
     (company "J & R Creative Technologies Inc.")
+    (comment 1 "@RangenMichael")
+    (comment 2 "https://twitter.com/RangenMichael")
+    (comment 3 "MIT License")
+    (comment 4 "https://github.com/mrangen/RP2040-Dev-Board")
   )
 
   (lib_symbols
@@ -2047,14 +2051,14 @@
     (in_bom yes) (on_board yes)
     (uuid 2a22be26-a817-4ed8-b112-95aa7d11fc7c)
     (property "Reference" "Y201" (id 0) (at 29.21 72.39 0))
-    (property "Value" "Crystal_GND24" (id 1) (at 24.13 74.93 0))
-    (property "Footprint" "Breadstick Footprints:7V12000018" (id 2) (at 36.83 77.47 0)
+    (property "Value" "" (id 1) (at 24.13 74.93 0))
+    (property "Footprint" "" (id 2) (at 36.83 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 36.83 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "JLCPCB P/N" "C97242" (id 4) (at 36.83 77.47 0)
+    (property "JLCPCB P/N" "C9002" (id 4) (at 36.83 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e0f94fac-1b77-4a77-86d6-af791b377c83))

@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# X322516MLB4SI
+#
+DEF X322516MLB4SI Y 0 40 Y N 1 L N
+F0 "Y" -200 250 50 H V L BNN
+F1 "X322516MLB4SI" -200 150 50 H V L BNN
+F2 "OSC_X322516MLB4SI" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Manufacturer Recommendations" 0 0 50 H I L BNN "STANDARD"
+F5 "N/A" 0 0 50 H I L BNN "PARTREV"
+F6 "YXC" 0 0 50 H I L BNN "MANUFACTURER"
+F7 "0.8 mm" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HEIGHT"
+DRAW
+P 2 0 0 16 -55 100 55 100 N
+P 2 0 0 16 55 100 55 -100 N
+P 2 0 0 16 55 -100 -55 -100 N
+P 2 0 0 16 -55 100 -55 -100 N
+P 2 0 0 16 92 100 92 -100 N
+P 2 0 0 16 -92 100 -92 -100 N
+P 2 0 0 16 -125 -100 -125 -125 N
+P 2 0 0 16 -125 -125 0 -125 N
+P 2 0 0 16 0 -125 125 -125 N
+P 2 0 0 16 125 -125 125 -100 N
+P 2 0 0 16 0 -200 0 -125 N
+X ~ 1 -200 0 100 R 40 40 0 0 P 
+X ~ 3 200 0 100 L 40 40 0 0 P 
+X ~ 2 0 -300 100 U 40 40 0 0 W 
+X ~ 4 0 -300 100 U 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library

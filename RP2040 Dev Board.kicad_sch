@@ -6,9 +6,13 @@
 
   (title_block
     (title "RP2040 Template")
-    (date "2022-03-28")
-    (rev "1")
+    (date "2022-04-24")
+    (rev "2")
     (company "J & R Creative Technologies Inc.")
+    (comment 1 "@RangenMichael")
+    (comment 2 "https://twitter.com/RangenMichael")
+    (comment 3 "MIT License")
+    (comment 4 "https://github.com/mrangen/RP2040-Dev-Board")
   )
 
   (lib_symbols
@@ -590,12 +594,6 @@
     (uuid fbe75786-d74f-40c9-887b-31ab37707e3d)
   )
 
-  (text "Issues:\n1) Pins 43 & 44 not directly routed to nearest decoupling capacitor.\n	Solution: Route to C204\n\n2) LED footprints are 0603, actual LED is 0805\n	Solution: No Basic 0603 LED available, footprint needs to be updated to 0805.\n\n3) Xtal isn't a basic part.\n	Solution: Substitue with C9002\n\n3) 1.1V Rail is NOT internally connected\n	Solution: Route 1.1V rail\n\n4) U205 silkscreen visible and overlapping pin labels\n	Solution: Make invisible\n\n5) ADC label could be improved.\n	Solution: Larger Font"
-    (at 20.32 139.7 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 2ff466f2-a10f-4d30-86d0-258970718dd1)
-  )
-
   (global_label "GPIO18" (shape tri_state) (at 185.42 85.09 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 1763eeb9-6c3b-4381-a46b-ffbfdec1a2c1)
@@ -1042,7 +1040,7 @@
     (property "Value" "LED_Filled" (id 1) (at 139.7 118.4274 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 135.89 115.57 0)
+    (property "Footprint" "LED_SMD:LED_0805_2012Metric" (id 2) (at 135.89 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 135.89 115.57 0)
@@ -1064,7 +1062,7 @@
     (property "Value" "LED_Filled" (id 1) (at 157.48 128.5874 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 153.67 125.73 0)
+    (property "Footprint" "LED_SMD:LED_0805_2012Metric" (id 2) (at 153.67 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 153.67 125.73 0)
@@ -1488,7 +1486,7 @@
       (reference "U205") (unit 1) (value "W25Q128JVS") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/2a22be26-a817-4ed8-b112-95aa7d11fc7c"
-      (reference "Y201") (unit 1) (value "Crystal_GND24") (footprint "Breadstick Footprints:7V12000018")
+      (reference "Y201") (unit 1) (value "Crystal_GND24") (footprint "X322516MLB4SI:OSC_X322516MLB4SI")
     )
   )
 )
