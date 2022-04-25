@@ -6,8 +6,8 @@
 
   (title_block
     (title "RP2040 Template")
-    (date "2022-04-24")
-    (rev "2")
+    (date "2022-04-25")
+    (rev "3")
     (company "J & R Creative Technologies Inc.")
     (comment 1 "@RangenMichael")
     (comment 2 "https://twitter.com/RangenMichael")
