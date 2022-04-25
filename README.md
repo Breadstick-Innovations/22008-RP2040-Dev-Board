@@ -8,10 +8,9 @@ I started this project a before making a git repository, so there's some missing
 
 ---
 
-# Current Status - Rev 2 Boards On Order!
-![](./Renders/Rev2/RayTrace1.png)
-![](./Renders/Rev2/RayTrace2.png)
-![](./Renders/Rev2/RayTrace3.png)
-![](./Renders/Rev2/Top.png)
-![](./Renders/Rev2/TopUnpopulated.png)
-![](./Renders/Rev2/BottomUnpopulated.png)
+# Current Status - Rev 3 Boards On Order!
+![](./Renders/Rev3/RP2040%20Dev%20Board%20Raytrace%201.png)
+![](./Renders/Rev3/RP2040%20Dev%20Board%20Raytrace%202.png)
+![](./Renders/Rev3/RP2040%20Dev%20Board%20Top.png)
+![](./Renders/Rev3/RP2040%20Dev%20Board%20Top%20Unpopulated.png)
+![](./Renders/Rev3/RP2040%20Dev%20Board%20Bottom.png)
