@@ -7,7 +7,7 @@
   (paper "A4")
   (title_block
     (title "RP2040 Template")
-    (date "2022-05-17")
+    (date "2022-05-18")
     (rev "4")
     (company "J & R Creative Technologies Inc.")
     (comment 1 "@RangenMichael")
@@ -10709,6 +10709,9 @@
   (gr_line (start 138.02 75.02) (end 155.8 75.02) (layer "Edge.Cuts") (width 0.1) (tstamp ca5ac1ba-1a4b-41ac-9647-451d99da6c09))
   (gr_text "JLCJLCJLCJLC" (at 140.47 69.62 90) (layer "B.SilkS") (tstamp 84793972-b3d4-4444-a148-1d0d15f25294)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
+  (gr_text "Controlled impedance USB traces\ndesigned for JLC7628 Prepreg." (at 181.21 49.74) (layer "F.Fab") (tstamp 3a13a33d-0399-4bf3-800a-72a2421cb176)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
 
   (segment (start 146.64 54.62) (end 146.64 55.15) (width 0.2) (layer "F.Cu") (net 1) (tstamp 00c08986-a59c-4082-9cf3-a3e9c6f525cd))
