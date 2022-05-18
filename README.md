@@ -8,10 +8,4 @@ I wanted to get myself more aquainted with JLCPCB's SMT assembly service, so I d
 
 ---
 
-# Current Status - Rev 3 Arrived and Working!
-
-![](./Photos/Rev%203/IMG_2891.jpg)
-![](./Photos/Rev%203/WIN_20220509_17_40_56_Pro.jpg)
-![](./Photos/Rev%203/WIN_20220509_17_42_34_Pro.jpg)
-![](./Photos/Rev%203/WIN_20220509_17_43_24_Pro.jpg)
-
+# Current Status - Rev 4 has been ordered.
