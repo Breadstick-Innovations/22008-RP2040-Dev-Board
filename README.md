@@ -8,4 +8,3 @@ I wanted to get myself more aquainted with JLCPCB's SMT assembly service, so I d
 
 ---
 
-# Current Status - Rev 4 has been ordered.
