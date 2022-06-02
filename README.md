@@ -8,3 +8,4 @@ I wanted to get myself more aquainted with JLCPCB's SMT assembly service, so I d
 
 ---
 
+![Pinout Diagram](./Renders/Rev4/RP2040%20Dev%20Board%20Pinout.png?raw=true)
