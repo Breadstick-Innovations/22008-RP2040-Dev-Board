@@ -12,6 +12,7 @@ I wanted to get myself more aquainted with JLCPCB's SMT assembly service, so I d
 * [Tutorial](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/overview)
 * [Essentials](https://learn.adafruit.com/circuitpython-essentials)
 * [Docs](https://docs.circuitpython.org/en/latest/docs/index.html)
+* [Mu (CircuitPython Code Editor)](https://codewith.mu/)
 * ![CircuitPython Pinout Diagram](./Renders/Rev4/RP2040%20Dev%20Board%20CircuitPython%20Pinout.png)
 
 
@@ -20,5 +21,6 @@ I wanted to get myself more aquainted with JLCPCB's SMT assembly service, so I d
 * [Tutorial](https://www.youtube.com/watch?v=JCk9QaCH5QU&list=PLEBQazB0HUyQO6rJxKr2umPCgmfAU-cqR&index=6)
 * [QuickRef](https://docs.micropython.org/en/latest/rp2/quickref.html)
 * [Docs](https://docs.micropython.org/en/latest/index.html)
+* [Thonny (Python IDE)](https://thonny.org/)
 ![MicroPython Pinout Diagram](./Renders/Rev4/RP2040%20Dev%20Board%20MicroPython%20Pinout.png)
 
