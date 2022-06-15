@@ -7,7 +7,7 @@ I wanted to get myself more aquainted with JLCPCB's SMT assembly service, so I d
 * [Breadstick.ca](https://shop.breadstick.ca/products/rp2040-dev-board)
 * Tindie (Soon, Product Page Is Just Awaiting Approval)
 
-## Circuit Python
+## Circuit Python (Adafruit)
 * [Firmware (.uf2)](https://circuitpython.org/board/raspberry_pi_pico/)
 * [Tutorial](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/overview)
 * [Essentials](https://learn.adafruit.com/circuitpython-essentials)
