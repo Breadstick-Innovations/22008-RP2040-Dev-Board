@@ -4,8 +4,8 @@ I wanted to get myself more aquainted with JLCPCB's SMT assembly service, so I d
  [Here's a link to the dev thread on Twitter.](https://twitter.com/RangenMichael/status/1531419000948723712?s=20&t=70S1JhFAgyq_hug58spnyA)
  
 ## Where To Buy
-* [Breadstick.ca](https://shop.breadstick.ca/products/rp2040-dev-board)
 * [Tindie](https://www.tindie.com/products/breadstick/rp2040-dev-board/)
+* [Breadstick.ca](https://shop.breadstick.ca/products/rp2040-dev-board)
 
 ## CircuitPython (Adafruit)
 * [Firmware (.uf2)](https://circuitpython.org/board/raspberry_pi_pico/)
