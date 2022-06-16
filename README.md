@@ -5,9 +5,9 @@ I wanted to get myself more aquainted with JLCPCB's SMT assembly service, so I d
  
 ## Where To Buy
 * [Breadstick.ca](https://shop.breadstick.ca/products/rp2040-dev-board)
-* Tindie (Soon, product page is submitted for approval.)
+* [Tindie](https://www.tindie.com/products/breadstick/rp2040-dev-board/)
 
-## Circuit Python (Adafruit)
+## CircuitPython (Adafruit)
 * [Firmware (.uf2)](https://circuitpython.org/board/raspberry_pi_pico/)
 * [Tutorial](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/overview)
 * [Essentials](https://learn.adafruit.com/circuitpython-essentials)
@@ -16,7 +16,7 @@ I wanted to get myself more aquainted with JLCPCB's SMT assembly service, so I d
 * ![CircuitPython Pinout Diagram](./Renders/Rev4/RP2040%20Dev%20Board%20CircuitPython%20Pinout.png)
 
 
-## Micropython
+## MicroPython
 * [Firmware (.uf2)](https://micropython.org/download/rp2-pico/)
 * [Tutorial](https://www.youtube.com/watch?v=JCk9QaCH5QU&list=PLEBQazB0HUyQO6rJxKr2umPCgmfAU-cqR&index=6)
 * [QuickRef](https://docs.micropython.org/en/latest/rp2/quickref.html)
