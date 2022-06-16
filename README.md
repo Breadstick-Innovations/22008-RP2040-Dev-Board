@@ -24,3 +24,5 @@ I wanted to get myself more aquainted with JLCPCB's SMT assembly service, so I d
 * [Thonny (Python IDE)](https://thonny.org/)
 ![MicroPython Pinout Diagram](./Renders/Rev4/RP2040%20Dev%20Board%20MicroPython%20Pinout.png)
 
+## Mechanical Drawing
+![Board Diagram](./Renders/Rev4/Board%20Dimensions.jpg)
