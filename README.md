@@ -26,3 +26,6 @@ I wanted to get myself more aquainted with JLCPCB's SMT assembly service, so I d
 
 ## Mechanical Drawing
 ![Board Diagram](https://github.com/mrangen/RP2040-Dev-Board/blob/main/Renders/Rev4/Tindie%203x2/Board%20Dimensions.png)
+
+## Fritzing Model (Work In Progress)
+![Fritzing Model](https://github.com/mrangen/RP2040-Dev-Board/blob/main/Fritzing/RP2040-Dev-Board.svg)
